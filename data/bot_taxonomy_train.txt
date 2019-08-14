@@ -1,0 +1,502 @@
+botname	edit_catgory	Fixer	Generator	Tagger	Clerk	Archiver	Advisor 	Connector	Protector	Notifier 
+WP 1.0 bot	over 1M	0	0	0	1	0	0	0	0	0
+ClueBot NG	over 1M	1	0	0	0	0	0	0	1	1
+Yobot	over 1M	1	0	1	0	0	0	0	0	0
+AnomieBOT	over 1M	1	0	0	1	1	0	0	0	0
+SmackBot	over 1M	1	0	1	1	0	0	0	0	0
+InternetArchiveBot	over 1M	1	0	0	0	1	0	0	0	0
+Addbot	over 1M	1	0	0	0	0	0	1	0	0
+SineBot	over 1M	0	0	1	1	0	0	0	1	1
+MediaWiki message delivery	over 1M	0	0	0	0	0	0	0	0	1
+EmausBot	over 1M	1	0	0	1	0	0	1	0	0
+Xqbot	over 1M	1	0	1	0	0	0	0	0	0
+RjwilmsiBot	over 1M	1	1	1	0	0	0	0	0	0
+ClueBot	over 1M	1	0	0	0	0	0	0	1	1
+KasparBot	over 1M	1	0	1	1	0	0	0	0	0
+AAlertBot	over 1M	0	0	0	1	1	0	0	0	1
+RussBot	over 1M	0	1	1	0	0	0	0	0	0
+COIBot	over 1M	0	0	0	0	0	0	0	1	1
+InceptionBot	over 1M	0	0	0	0	0	0	0	0	0
+KolbertBot	over 1M	1	0	0	0	0	0	0	0	0
+Legobot	over 1M	1	0	0	0	0	0	1	0	0
+AvicBot	over 1M	1	0	1	1	0	0	0	0	0
+Lowercase sigmabot III	over 1M	0	0	0	1	0	0	0	0	0
+Cyberbot I	over 1M	1	1	1	1	1	0	0	0	0
+BG19bot	over 1M	0	0	1	0	0	0	0	0	0
+BattyBot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+The Anomebot2	100K ~ 1M	1	0	1	0	0	0	0	0	0
+SporkBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+Fbot	100K ~ 1M	1	0	1	1	1	0	1	0	1
+Luckas-bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Bender the Bot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+FrescoBot	100K ~ 1M	1	0	1	0	0	0	1	0	0
+JJMC89 bot	100K ~ 1M	1	0	0	0	1	0	1	0	0
+Lightbot	100K ~ 1M	1	0	0	1	0	0	0	0	0
+AlexNewArtBot	100K ~ 1M	0	0	0	0	1	0	0	0	0
+GreenC bot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+DeltaQuadBot	100K ~ 1M	1	0	1	1	0	0	0	0	0
+ClueBot III	100K ~ 1M	1	0	0	1	1	0	0	0	0
+ZéroBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+OrphanBot	100K ~ 1M	1	0	0	0	0	0	0	1	1
+XLinkBot	100K ~ 1M	1	0	0	0	0	0	0	1	0
+MiszaBot III	100K ~ 1M	0	0	0	0	1	0	0	0	0
+Helpful Pixie Bot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+TXiKiBoT	100K ~ 1M	1	0	0	0	0	0	1	0	0
+VeblenBot	100K ~ 1M	1	0	0	0	0	0	0	0	1
+ListasBot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+Thijs!bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Cyberbot II	100K ~ 1M	0	0	1	0	0	0	0	0	0
+DPL bot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+VolkovBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Kingbotk	100K ~ 1M	0	0	1	0	0	0	0	0	0
+Erik9bot	100K ~ 1M	0	0	0	0	0	0	0	0	0
+Alaibot	100K ~ 1M	1	0	1	1	0	0	0	0	0
+Citation bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+SieBot	100K ~ 1M	1	0	1	0	0	0	1	0	0
+Reports bot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+Mathbot	100K ~ 1M	0	0	0	1	1	1	0	0	0
+BOTijo	100K ~ 1M	0	1	0	0	1	0	0	0	0
+HasteurBot	100K ~ 1M	0	0	1	1	0	0	0	0	1
+TedderBot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Xenobot Mk V	100K ~ 1M	0	0	1	0	0	0	1	0	0
+D6	100K ~ 1M	1	0	0	0	0	0	0	0	0
+BD2412bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+HBC AIV helperbot5	100K ~ 1M	0	0	1	1	0	0	0	1	1
+Monkbot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+EdwardsBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+BU RoBOT	100K ~ 1M	1	0	1	1	0	0	0	0	0
+Bluebot	100K ~ 1M	1	0	0	1	0	0	1	1	0
+CmdrObot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+RMCD bot	100K ~ 1M	1	0	0	1	0	0	0	0	1
+ListeriaBot	100K ~ 1M	0	1	0	0	0	0	1	0	0
+ImageRemovalBot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Full-date unlinking bot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+DASHBot	100K ~ 1M	1	0	1	1	0	0	0	0	0
+BotMultichill	100K ~ 1M	1	0	1	1	1	0	1	0	0
+RonBot	100K ~ 1M	1	0	1	1	1	0	0	1	0
+HostBot	100K ~ 1M	0	0	0	0	1	1	0	0	1
+PrimeBOT	100K ~ 1M	1	0	0	0	0	0	0	0	0
+YurikBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+VoABot II	100K ~ 1M	1	0	0	1	0	0	0	1	0
+DatBot	100K ~ 1M	1	0	1	1	0	0	0	1	0
+BJBot	100K ~ 1M	0	0	0	0	0	0	0	1	0
+Magic links bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+MiszaBot II	100K ~ 1M	0	0	0	0	1	0	0	0	0
+Eubot	100K ~ 1M	1	0	0	1	0	0	0	0	0
+ArthurBot	100K ~ 1M	1	0	1	0	0	0	1	0	0
+AntiVandalBot	100K ~ 1M	1	0	0	0	0	0	0	1	0
+VIAFbot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+HBC AIV helperbot7	100K ~ 1M	1	0	0	1	0	0	0	1	0
+B-bot	100K ~ 1M	0	0	1	0	0	0	0	0	1
+JL-Bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Escarbot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+CorenSearchBot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+SoxBot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+MiszaBot I	100K ~ 1M	1	0	0	0	0	0	0	0	0
+MetsBot	100K ~ 1M	1	0	0	1	0	0	0	0	0
+EarwigBot	100K ~ 1M	1	0	1	1	0	0	1	0	0
+ImageTaggingBot	100K ~ 1M	0	0	1	0	0	0	0	0	1
+FlaBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+RFC bot	100K ~ 1M	1	0	1	1	0	0	1	0	0
+DumZiBoT	100K ~ 1M	1	0	0	1	0	0	1	0	0
+DumbBOT	100K ~ 1M	1	0	1	1	0	0	0	0	0
+Polbot	100K ~ 1M	1	0	1	1	0	0	0	0	0
+Ops Monitor (WMF)	100K ~ 1M	1	0	0	1	0	0	0	0	0
+STBotI	100K ~ 1M	0	0	1	0	0	0	0	0	0
+Xenobot	100K ~ 1M	1	0	1	1	0	0	0	0	1
+Alexbot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+KrimpBot	100K ~ 1M	0	0	1	0	0	0	0	0	0
+MartinBot	100K ~ 1M	1	0	0	0	0	0	0	1	0
+ProteinBoxBot	100K ~ 1M	1	1	0	0	0	0	0	0	0
+Kbdankbot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+DeprecatedFixerBot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+MGA73bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+DYKUpdateBot	100K ~ 1M	1	0	1	0	1	0	0	0	0
+MystBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Amalthea (bot)	100K ~ 1M	0	0	1	1	1	0	0	0	0
+Femto Bot	100K ~ 1M	1	1	0	1	0	0	0	0	0
+BracketBot	100K ~ 1M	0	0	0	0	0	0	0	0	1
+Dexbot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Chobot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+YFdyh-bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+HBC Archive Indexerbot	100K ~ 1M	0	0	0	0	1	0	0	0	0
+Scsbot	100K ~ 1M	0	0	0	0	1	0	0	0	0
+SuggestBot	100K ~ 1M	0	0	0	0	0	1	0	0	0
+タチコマ robot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Theo's Little Bot	100K ~ 1M	1	0	1	1	0	0	0	0	0
+JAnDbot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Kumi-Taskbot	100K ~ 1M	0	0	0	0	0	0	0	0	0
+Kotbot	100K ~ 1M	1	1	0	0	0	0	0	0	0
+Hazard-Bot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+DrilBot	100K ~ 1M	1	0	0	1	0	0	0	1	0
+NihlusBOT	100K ~ 1M	0	0	0	1	1	0	1	0	0
+GrouchoBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+WikitanvirBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+FairuseBot	100K ~ 1M	1	0	1	0	0	0	0	1	1
+WildBot	100K ~ 1M	1	0	0	0	0	0	1	0	1
+Zorrobot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+MenoBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+CheMoBot	100K ~ 1M	1	0	0	0	0	0	0	0	1
+HBC AIV helperbot3	100K ~ 1M	0	0	0	1	0	0	0	0	0
+Rambot	100K ~ 1M	1	1	0	0	0	0	1	0	0
+MartinBotIII	100K ~ 1M	1	0	1	1	1	0	0	0	0
+DodoBot	100K ~ 1M	0	0	1	0	0	0	0	0	0
+TinucherianBot	100K ~ 1M	0	0	1	0	0	0	0	0	1
+H3llBot	100K ~ 1M	1	0	0	0	1	0	0	0	0
+Filedelinkerbot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+RedBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+NoomBot	100K ~ 1M	1	0	0	1	0	0	0	0	1
+Citation bot 1	100K ~ 1M	1	0	0	0	0	0	1	0	0
+Tom.Bot	100K ~ 1M	0	0	1	0	0	0	0	0	0
+ShepBot	100K ~ 1M	0	0	1	0	1	0	0	0	0
+Reedy Bot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+GA bot	100K ~ 1M	1	0	1	1	0	0	0	0	1
+Detroiterbot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+JarBot	100K ~ 1M	0	0	0	0	0	0	0	0	0
+SkiersBot	100K ~ 1M	0	1	1	0	0	0	0	0	0
+Chris G Bot 3	100K ~ 1M	0	0	0	1	0	0	0	0	0
+LaraBot	100K ~ 1M	0	0	1	0	0	0	0	0	0
+LaaknorBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+SatyrBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+Ganeshbot	100K ~ 1M	1	1	1	0	0	0	0	0	0
+Hmainsbot1	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Invadibot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Svenbot	100K ~ 1M	0	0	1	0	0	0	0	0	0
+BryanBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+MusikBot	100K ~ 1M	0	0	1	1	1	0	1	0	0
+SQLBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+ArmbrustBot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+PseudoBot	100K ~ 1M	1	0	1	0	0	0	0	0	0
+Tawkerbot	100K ~ 1M	0	0	1	0	0	0	0	1	1
+Pearle	100K ~ 1M	1	0	0	1	0	0	0	0	0
+DarknessBot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+OKBot	100K ~ 1M	1	0	0	0	0	0	0	0	0
+Makecat-bot	100K ~ 1M	1	0	0	0	0	0	1	0	0
+LucienBOT	100K ~ 1M	1	0	0	0	0	0	0	0	0
+DYKHousekeepingBot	100K ~ 1M	0	0	0	1	0	0	0	0	0
+Alphachimpbot	100K ~ 1M	0	0	1	1	1	0	0	0	0
+ChuispastonBot	100K ~ 1M	0	0	0	0	0	0	1	0	0
+718 Bot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Snotbot	10K ~ 100K	0	0	1	1	1	0	0	0	0
+KLBot2	10K ~ 100K	1	0	1	1	1	0	1	0	0
+HagermanBot	10K ~ 100K	0	0	1	0	0	0	0	1	0
+Numbo3-bot	10K ~ 100K	1	0	1	0	0	0	1	0	0
+AlleborgoBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Robbot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+28bot	10K ~ 100K	1	0	0	1	0	0	0	1	0
+Rei-bot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+DFBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Mr.Z-bot	10K ~ 100K	0	0	1	1	0	0	0	0	0
+RM bot	10K ~ 100K	1	0	1	0	0	0	0	1	0
+RobotG	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Wikinews Importer Bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+BernsteinBot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+FastilyBot	10K ~ 100K	0	0	0	1	0	0	0	0	1
+The wubbot	10K ~ 100K	1	0	1	1	0	0	0	0	0
+BotMultichillT	10K ~ 100K	1	0	1	1	0	0	1	0	0
+MiszaBot	10K ~ 100K	0	0	0	1	0	0	0	0	1
+CactusBot	10K ~ 100K	0	0	0	0	0	0	1	0	1
+DSisyphBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+AvocatoBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+BrownBot	10K ~ 100K	1	0	0	0	0	0	0	0	1
+GimmeBot	10K ~ 100K	1	0	0	0	0	1	0	0	1
+ArticlesForCreationBot	10K ~ 100K	0	0	1	1	0	1	0	0	0
+CanisRufus	10K ~ 100K	0	0	0	1	0	0	0	0	0
+PhotoCatBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+RibotBOT	10K ~ 100K	1	0	0	0	0	0	1	0	0
+AdminStatsBot	10K ~ 100K	0	0	0	1	0	0	1	0	0
+Redirect fixer	10K ~ 100K	0	0	0	0	0	0	0	0	0
+JCW-CleanerBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+MadmanBot	10K ~ 100K	0	0	0	1	0	0	0	0	1
+STBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Ptbotgourou	10K ~ 100K	1	0	0	1	0	0	1	0	0
+OgreBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+HBC AIV helperbot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+ArticleAlertbot	10K ~ 100K	0	0	0	0	0	0	0	0	1
+Erwin85Bot	10K ~ 100K	1	0	1	1	0	0	1	1	1
+MastiBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Werdnabot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+MoohanBOT	10K ~ 100K	1	0	1	0	0	0	0	0	0
+LivingBot	10K ~ 100K	1	0	0	1	1	0	0	0	1
+Ralbot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+SoxBot V	10K ~ 100K	1	0	1	0	1	0	0	1	0
+CitationCleanerBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Josvebot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Thehelpfulbot	10K ~ 100K	1	0	1	0	0	0	1	0	1
+Amirobot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DragonBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+STTWbot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+MelonBot	10K ~ 100K	0	0	1	1	0	0	0	0	0
+FoxBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+BAGBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Sambot	10K ~ 100K	1	0	1	1	1	0	1	0	0
+ClueBot II	10K ~ 100K	0	0	1	0	0	0	0	0	0
+TuHan-Bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+MalafayaBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Idioma-bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Staeckerbot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Bot1058	10K ~ 100K	1	0	1	0	0	0	1	0	0
+CommonsNotificationBot	10K ~ 100K	0	0	0	0	0	0	1	0	1
+EnterpriseyBot	10K ~ 100K	1	0	1	1	0	0	0	0	1
+HRoestBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+BogBot	10K ~ 100K	0	1	0	0	0	0	1	0	0
+JackieBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Maelgwnbot	10K ~ 100K	1	0	1	1	0	0	0	0	0
+KamikazeBot	10K ~ 100K	1	0	0	1	0	0	1	0	0
+VoxelBot	10K ~ 100K	1	0	0	1	1	0	0	0	1
+Uncle G's major work 'bot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Shadowbot3	10K ~ 100K	0	0	0	0	1	0	0	0	0
+Drinibot	10K ~ 100K	0	0	0	1	0	0	1	0	0
+PotatoBot	10K ~ 100K	1	1	0	0	0	0	1	0	0
+MarshBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+DefaultsortBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Acebot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+TokenzeroBot	10K ~ 100K	1	1	0	0	0	0	0	0	0
+Rezabot	10K ~ 100K	1	0	0	1	0	0	1	0	0
+ReferenceBot	10K ~ 100K	0	0	0	0	0	1	0	0	1
+HotArticlesBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+SharedIPArchiveBot	10K ~ 100K	0	0	0	0	1	0	0	0	0
+Ahechtbot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Tangobot	10K ~ 100K	1	0	0	1	1	0	1	0	0
+Thadius856AWB	10K ~ 100K	1	0	1	0	0	0	0	0	0
+PixelBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DyceBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+WatchlistBot	10K ~ 100K	0	1	1	1	0	0	0	0	0
+Gdrbot	10K ~ 100K	1	0	0	1	0	0	1	0	0
+TheSandBot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+DOI bot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+SashatoBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+TobeBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+HBC AIV helperbot11	10K ~ 100K	0	0	0	0	0	0	0	0	0
+AntiSpamBot	10K ~ 100K	1	0	0	0	0	0	0	1	0
+SDPatrolBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+SassoBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+MifterBot	10K ~ 100K	0	0	1	0	0	0	0	0	1
+Rubinbot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Stefan2bot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+TPBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+JYBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Bibcode Bot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+People-photo-bot	10K ~ 100K	1	1	1	0	1	0	0	0	0
+SilvonenBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Sandbot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+MenasimBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Qbugbot	10K ~ 100K	1	1	0	0	0	0	0	0	0
+Muro Bot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+DinoBot2	10K ~ 100K	1	0	0	1	0	0	0	0	0
+AP.BOT	10K ~ 100K	1	0	0	1	0	0	0	0	0
+BotanyBot	10K ~ 100K	1	0	1	1	1	0	0	0	0
+Sethbot	10K ~ 100K	1	0	0	1	0	0	1	0	0
+Jogersbot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+Petan-Bot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+Obersachsebot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+WinBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+STBotD	10K ~ 100K	1	0	0	0	0	0	1	0	0
+ContinuityBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+WOSlinkerBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+SteveBot	10K ~ 100K	1	0	1	0	0	0	0	0	1
+HBC AIV helperbot2	10K ~ 100K	1	0	0	0	0	0	0	1	0
+Eskimbot	10K ~ 100K	1	0	0	0	0	0	0	1	0
+Ohms Law Bot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+D'ohBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DHN-bot~enwiki	10K ~ 100K	1	0	0	1	0	0	1	0	0
+J Milburn Bot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+Lowercase sigmabot II	10K ~ 100K	0	0	0	0	1	0	0	0	0
+Ripchip Bot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+FeedBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+PipepBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+KingpinBot	10K ~ 100K	0	0	1	1	1	0	0	0	1
+Scepbot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+MifterBot I	10K ~ 100K	0	0	1	0	0	0	0	0	0
+BOTarate	10K ~ 100K	1	0	0	0	0	0	1	0	0
+One bot	10K ~ 100K	0	0	0	1	0	0	1	0	0
+Rick Bot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Guanabot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+CapitalBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+KevinBot	10K ~ 100K	1	1	0	1	0	0	0	0	0
+YiFeiBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+SPCUClerkbot	10K ~ 100K	0	0	1	1	0	0	0	0	0
+HBC NameWatcherBot	10K ~ 100K	0	0	1	0	0	0	0	0	1
+CSDWarnBot	10K ~ 100K	0	0	0	0	0	0	0	0	1
+AMbot	10K ~ 100K	0	0	1	1	0	0	0	0	0
+SoxBot III	10K ~ 100K	0	0	0	1	0	0	0	0	0
+VoABot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Curpsbot-unicodify	10K ~ 100K	0	0	0	0	0	0	0	0	0
+JeffGBot	10K ~ 100K	0	0	1	0	0	0	0	0	1
+TjBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Commander Keane bot	10K ~ 100K	0	0	0	0	0	0	1	0	0
+TaBOT-zerem	10K ~ 100K	1	0	0	0	0	0	1	0	0
+ZackBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Fluxbot	10K ~ 100K	1	0	1	1	0	0	0	0	1
+MerlIwBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Android Mouse Bot 2	10K ~ 100K	0	0	0	0	0	0	0	0	1
+LyricsBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Mjbmrbot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Whobot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+PbBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+Gnome (Bot)	10K ~ 100K	1	0	1	1	0	0	0	0	1
+BoxCrawler	10K ~ 100K	1	0	0	1	0	0	0	0	0
+KarlsenBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+JBradley Bot	10K ~ 100K	1	1	0	0	0	0	1	0	0
+COBot	10K ~ 100K	1	1	1	1	0	0	1	0	0
+Chartbot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Broadbot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Lowercase sigmabot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Phe-bot	10K ~ 100K	1	0	0	1	0	0	1	0	0
+A4bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Comics-awb	10K ~ 100K	0	0	1	0	0	0	0	0	0
+DYKadminBot	10K ~ 100K	0	0	0	1	1	0	0	0	1
+JoeBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Dinamik-bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+JhsBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DASHBotAV	10K ~ 100K	1	0	0	0	0	0	0	1	0
+Snowbot	10K ~ 100K	1	0	1	0	0	0	0	0	1
+RonaldBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+AfDBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+RBot~enwiki	10K ~ 100K	1	0	1	0	0	0	0	0	0
+William Avery Bot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+MPUploadBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+^demonBot2	10K ~ 100K	1	0	1	0	0	0	0	0	0
+ChzzBot II	10K ~ 100K	0	0	0	0	0	0	0	0	0
+AWeenieBot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+HBC AIV helperbot4	10K ~ 100K	1	0	1	0	1	0	0	1	0
+Pegasusbot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Synthebot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+OverlordQBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+AndersBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+NekoDaemon	10K ~ 100K	1	0	1	1	0	0	0	0	0
+WikiStatsBOT	10K ~ 100K	0	0	0	1	0	0	0	0	0
+BOT-Superzerocool	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Harej bot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+CarsracBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Tom's Tagging Bot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+Merge bot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+EmxBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+NationalRegisterBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+PeerReviewBot	10K ~ 100K	0	0	0	0	1	0	0	0	0
+RileyBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+RscprinterBot	10K ~ 100K	0	0	1	1	1	0	0	0	0
+AlnoktaBOT	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Vagobot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+EranBot	10K ~ 100K	1	1	0	1	0	1	1	0	0
+IznoBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+WelcomerBot	10K ~ 100K	0	0	0	0	0	0	0	0	1
+Legobot II	10K ~ 100K	0	0	1	0	0	0	0	0	1
+BenzolBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+SoxBot II	10K ~ 100K	1	0	0	0	0	0	0	0	1
+BorgardeBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+SoxBot IV	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Vina-iwbot~enwiki	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Seedbot	10K ~ 100K	1	0	0	0	0	0	1	0	1
+RoboMaxCyberSem	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Zwobot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+JaGaBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Arbitrarily0Bot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Rschen7754bot	10K ~ 100K	1	0	1	1	0	0	0	0	1
+Grafikbot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Taxobot 1	10K ~ 100K	0	0	0	0	0	0	0	0	0
+AnkitAWB	10K ~ 100K	1	0	1	1	0	0	0	0	0
+Bot0612	10K ~ 100K	1	0	0	1	0	0	0	0	0
+MerlLinkBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+VWBot	10K ~ 100K	0	0	1	1	0	0	0	0	1
+SQLBot-Hello	10K ~ 100K	0	0	0	1	0	0	0	0	1
+CobraBot	10K ~ 100K	1	0	1	1	0	0	0	0	0
+Locobot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+LordAnubisBOT	10K ~ 100K	1	0	0	0	0	0	1	0	0
+MBisanzBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Kyle the bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+LostBot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+EdoBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+SelketBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+OAbot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+OmniBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Justincheng12345-bot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+UnCatBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+FACBot	10K ~ 100K	0	0	0	0	1	0	0	0	0
+Sagabot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+XLerateBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+XyBot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+Roboto de Ajvol	10K ~ 100K	1	0	0	0	0	0	1	0	0
+NW557Bot	10K ~ 100K	0	0	0	0	0	0	1	1	1
+NjardarBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Alph Bot	10K ~ 100K	1	0	1	0	0	0	1	0	0
+Giggabot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+UsuallyNonviolentBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+RobotE	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Citation bot 2	10K ~ 100K	1	0	0	0	0	0	0	1	0
+KnightRider~enwiki	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DorganBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+KocjoBot~enwiki	10K ~ 100K	1	0	0	0	0	0	1	0	0
+WPArkansas Bot	10K ~ 100K	0	0	1	0	0	0	1	0	0
+TTObot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+GrinBot~enwiki	10K ~ 100K	0	0	0	0	0	0	1	0	0
+AnomieBOT III	10K ~ 100K	1	0	0	0	0	0	1	0	0
+MondalorBot	10K ~ 100K	0	0	0	0	0	0	1	0	0
+CounterVandalismBot	10K ~ 100K	1	0	0	0	0	0	0	1	0
+SSTbot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+MauritsBot	10K ~ 100K	0	0	0	0	0	0	1	0	0
+WeggeBot	10K ~ 100K	0	0	0	0	0	0	1	0	0
+FlBot	10K ~ 100K	0	0	1	1	0	0	0	0	0
+Jumbuck	10K ~ 100K	1	0	0	1	0	0	1	0	0
+NetBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+Zorglbot	10K ~ 100K	0	1	0	1	0	0	0	0	0
+UTRSBot	10K ~ 100K	0	0	0	1	0	0	0	0	1
+MSBOT	10K ~ 100K	1	0	0	0	0	0	1	0	0
+KevinalewisBot	10K ~ 100K	0	0	1	0	0	0	0	0	0
+Lucasbfrbot	10K ~ 100K	0	0	1	0	0	0	1	0	0
+RebelRobot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Mdann52 bot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+Taxobot 7	10K ~ 100K	1	0	0	0	0	1	0	0	0
+JdforresterBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+RaptureBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+DixonDBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Chem-awb	10K ~ 100K	0	0	1	0	0	0	0	0	0
+ZhBot	10K ~ 100K	1	0	1	0	1	0	0	0	0
+TheMagikBOT	10K ~ 100K	1	0	1	0	0	0	0	0	0
+Tsca.bot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+Anybot	10K ~ 100K	0	1	0	0	0	0	0	0	0
+WugBot	10K ~ 100K	1	0	0	1	0	0	0	0	0
+MoondyneAWB	10K ~ 100K	1	0	0	0	0	0	0	0	0
+Almabot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+LinkFA-Bot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+ArkyBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+TechBot	10K ~ 100K	0	0	0	0	0	0	1	0	0
+AccReqBot	10K ~ 100K	0	0	0	0	1	0	0	0	0
+Mairibot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+CopyToWiktionaryBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+RoryBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+Lonjers french region rename bot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+SD5bot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+BotKung	10K ~ 100K	0	0	0	0	0	0	1	0	0
+Cerabot~enwiki	10K ~ 100K	1	0	1	0	0	0	1	0	0
+StatisticianBot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+CocuBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+DRN clerk bot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+Jitse's bot	10K ~ 100K	0	0	0	1	1	0	0	0	0
+Ligulembot	10K ~ 100K	0	0	0	1	0	0	0	0	0
+HersfoldArbClerkBot	10K ~ 100K	0	0	0	1	0	0	0	0	1
+MenoBot II	10K ~ 100K	0	0	1	0	0	0	0	0	0
+RockfangBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+Gerakibot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Chlewbot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+SimplexityBot	10K ~ 100K	1	0	0	0	0	0	0	0	0
+HiW-Bot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+AkhtaBot	10K ~ 100K	1	0	0	0	0	0	1	0	0
+Crypticbot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+Luasóg bot	10K ~ 100K	1	0	0	0	0	1	0	0	0
+SteenthIWbot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+SamatBot	10K ~ 100K	1	0	1	0	0	0	1	0	0
+Kasirbot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+ThePhantomBot	10K ~ 100K	1	0	1	0	0	0	0	0	0
+MessageDeliveryBot	10K ~ 100K	0	0	0	0	0	0	0	0	1
+Syrcatbot	10K ~ 100K	0	0	0	0	0	0	0	0	0
+CrimsonBot	1K ~ 10K	1	0	0	0	0	0	0	0	0
+HerculeBot	1K ~ 10K	1	0	1	0	0	0	0	0	0
+YpnBot	1K ~ 10K	0	0	0	0	0	0	0	0	0
+StigBot	1K ~ 10K	0	0	0	0	0	0	1	0	0
+BsherrAWBBOT	1K ~ 10K	0	0	1	0	0	0	0	0	0
+KslotteBot	1K ~ 10K	0	0	1	0	0	0	0	0	0
+EsquivalienceBot	1K ~ 10K	0	0	0	1	0	0	0	0	0
+Mentibot	1K ~ 10K	1	0	0	0	0	0	1	0	0
+John Bot III	1K ~ 10K	1	0	1	1	0	0	0	0	0
+DarafshBot	1K ~ 10K	1	0	0	0	1	0	1	0	0

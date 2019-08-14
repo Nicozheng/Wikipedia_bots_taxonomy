@@ -1,0 +1,9 @@
+{'Fixer': 'interwiki|run|fixing|function|span|using|running|diff|reviewed|go|purpose|completed|rm|center|link|reference|links|fix',
+ 'Generator': 'exists|redirects|expect|know|redirect|names|replace|testing|hand|pagename|created|regex|updated|exist|mention|search|matching|based|added|confirm|view|caps|removes|change|forward|sort|note|follow|skip|sup',
+ 'Tagger': 'tag|tagging|supervised|tagged|preserved|modify|contribs|lists|redirect|stop|center|add|requested|adding|started|archive|review|svg|code|assisted|hide|report|unsupervised|namespaces',
+ 'Clerk': 'problems|unsupervised|comment|lists|diff|issues|links|missing|updating|space|programming|interwiki|toolserver|tags|fixes|redirects|updates|function',
+ 'Archiver': 'action|missing|check|reviews|works|edit|list|contact|log|redirect|count|debate|updates|links|lists|boilerplate|remove|break|arise|right|parameter|operator|separate|redirects|moved|ignore|archive|recommended|tags',
+ 'Advisor ': 'suggest|suggestion|sort|consider|links|suggested|arise|frameerrors|following|reports|placed|using|given|limited|missing|required|avoid|left|going|know|test|taking|updates|testing',
+ 'Connector': 'interwiki|redirect|links|standard|redirects|request|modify|find|image|supervised|update|using|span|list|tagged|padding|database',
+ 'Protector': 'png|align|warning|rate|sandbox|method|overview|input|comments|redirects|vote|process|cleanup|error|blocked|find|noticed|note|continue|top|shutoff|double|operated|existing|rest|replacing|purpose|issue|leave|future|replace|plan|order|malfunctioning|tagging|check|removes|remove|contribs',
+ 'Notifier ': 'messages|welcome|span|complete|notify|following|working|expected|updating|limit|post|target|continue|reduce|checks|manual|waiting|warning|image|mark|diff|speedy|checking|shutoff|proposed|unsupervised|added|generate|provide|list|mainspace|leave'}

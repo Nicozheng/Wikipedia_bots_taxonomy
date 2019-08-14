@@ -1,0 +1,2 @@
+{"lex_sources": "wikidata|wikimedia commons|google books|crossref|adsabs|arxiv|oaadoi|pubmed|bibcode|jstor|consensus data|consensus table|database|fishbase|itis|wayback|webcite",
+	"lex_policies": "vandal|vandalism|aiv|uaa|irc|orphan|orphaned|substitution|coi|pov|npov|verifiability|copyrighted|copyright|license|privacy|fair-use|bias|harassment|spam|spams|defcon|scv"}
